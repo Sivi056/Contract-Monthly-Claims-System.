@@ -27,10 +27,7 @@ The Contract Monthly Claims System is a WPF (.NET Core) application designed to 
 
 ### Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sivi056/Contract-Monthly-Claims-System.git
-   cd ContractMonthlyClaimsSystem
-   ```
+  https://github.com/Sivi056/Contract-Monthly-Claims-System..git
 
 2. Open the solution in Visual Studio.
 
