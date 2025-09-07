@@ -1,7 +1,7 @@
 # Contract Monthly Claims System
 
 ## Overview
-The Contract Monthly Claims System is a WPF (.NET Core) application designed to streamline the process of submitting and managing claims. The system provides an intuitive interface for users to log in, submit claims, and track their status.
+The Contract Monthly Claims System is a WPF (.NET Core) application designed to streamline the process of submitting and managing claims. The system provides an intuitive interface for users to log in, submit claims and track their status.
 
 ## Features
 - User authentication (login functionality)
